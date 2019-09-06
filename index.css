@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("http://www.techrum.vn/chevereto/images/2017/12/24/tT7u1.jpg");
+    url("./background.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("http://www.techrum.vn/chevereto/images/2017/12/24/tT7u1.jpg") center center fixed;
+    url("./background.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("http://www.techrum.vn/chevereto/images/2017/12/24/tT7u1.jpg") !important;
+      url("./background.jpg") !important;
   }
 }
